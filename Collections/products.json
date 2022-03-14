@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "622e23322b46481b740e557f"
+  },
+  "name": "Huawei Mate 20 Pro",
+  "desc": "Official Huawei phone for 2018",
+  "barcode": "159753",
+  "price": "3999"
+},{
+  "_id": {
+    "$oid": "622e23892b46481b740e5580"
+  },
+  "name": "IPhone 13 Pro",
+  "desc": "A beautiful design",
+  "barcode": "123456",
+  "price": "6500"
+},{
+  "_id": {
+    "$oid": "622e23a62b46481b740e5581"
+  },
+  "name": "Asus Strix Laptop",
+  "desc": "Built for gamers",
+  "barcode": "112233",
+  "price": "8350"
+},{
+  "_id": {
+    "$oid": "622e23d72b46481b740e5582"
+  },
+  "name": "Renault Megane IV",
+  "desc": "All new coupe design",
+  "barcode": "147852",
+  "price": "2780"
+},{
+  "_id": {
+    "$oid": "622e23fe2b46481b740e5583"
+  },
+  "name": "Oculus Rift",
+  "desc": "The future of VR-Gaming",
+  "barcode": "159963",
+  "price": "4500"
+},{
+  "_id": {
+    "$oid": "622e241c2b46481b740e5584"
+  },
+  "name": "iCarSoft CR Pro",
+  "desc": "The best car diagnostic tool",
+  "barcode": "562781",
+  "price": "850"
+}]
