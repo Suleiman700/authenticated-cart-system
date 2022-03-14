@@ -25,6 +25,7 @@ Server listens on port `3001`
 * cd server
 * npm install
 * npm start
+* Please make sure to import the `products collection` (info can be found in the `Database` section below
 
 Client listens on port `3000`
 * cd client
