@@ -45,7 +45,7 @@ Client listens on port `3000`
 # Server URL
 REACT_APP_SERVER_URL=http://localhost:3001
 
-Add to to: "client/.env"
+Add to to: "/client/.env"
 
 ```
 
