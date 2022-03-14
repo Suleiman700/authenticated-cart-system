@@ -24,7 +24,8 @@ Due to the lack of time, I don't have the enough time to fix it.
 
 #### <ins>Not Working Sidebar In Mobile Version</ins>
 
-In desktop version, The header works just fine, But in the mobile version the header will contain (hamburger menu).
+In desktop version, The header works just fine, But in the mobile version the header will contain (hamburger menu) and
+it does not work.
 
 The main purpose of sidebar menu is to navigate to `home` or `cart` page
 
