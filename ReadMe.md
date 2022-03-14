@@ -40,10 +40,12 @@ Client listens on port `3000`
 `.env` file located in: `/client/.env`
 
 ```
-.env file
+.env file - in case it is missing:
 
 # Server URL
 REACT_APP_SERVER_URL=http://localhost:3001
+
+Add to to: "client/.env"
 
 ```
 
